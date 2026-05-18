@@ -1,0 +1,27 @@
+# Contexto — EV Challenge 2026 / GoodWe
+
+O EV Challenge 2026 propõe soluções inovadoras para a expansão da mobilidade elétrica, com foco em infraestrutura de carregamento inteligente.
+
+A GoodWe atua no desenvolvimento de tecnologias para energia renovável e sistemas de carregamento de veículos elétricos, enfrentando desafios relacionados à gestão eficiente de eletropostos.
+
+## Problema central
+Com o aumento do número de veículos elétricos, os eletropostos comerciais enfrentam dificuldades como:
+
+- falta de controle inteligente de potência entre carregadores
+- ausência de registro detalhado de sessões de recarga
+- dificuldades no faturamento baseado em consumo
+- baixa visibilidade operacional em tempo real
+- falhas na comunicação de status e manutenção
+
+## Solução proposta no projeto
+O projeto propõe um chatbot inteligente (GoodWe ChargeGrid Assistant) capaz de atuar como interface operacional para gestores de eletropostos.
+
+O chatbot utiliza IA para:
+- monitorar status de carregadores
+- consultar sessões e consumo de energia
+- apoiar faturamento automatizado
+- auxiliar na orquestração de potência
+- orientar suporte técnico básico
+
+## Objetivo geral
+Aumentar a eficiência operacional dos eletropostos comerciais, reduzindo falhas, melhorando controle energético e facilitando a gestão financeira e técnica do sistema.
